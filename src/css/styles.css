@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    background: rgb(10,0,25);
+    background: linear-gradient(90deg, rgba(10,0,25,1) 0%, rgba(98,8,233,1) 48%, rgba(83,8,170,1) 100%);
+    color: #ffffff
+}
